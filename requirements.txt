@@ -21,7 +21,7 @@ future==0.17.1
 geocoder==1.38.1
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 kiwisolver==1.1.0
 llvmlite==0.29.0
 MarkupSafe==1.1.1
