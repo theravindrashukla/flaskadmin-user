@@ -27,7 +27,7 @@ llvmlite==0.29.0
 MarkupSafe==1.1.1
 matplotlib==3.1.1
 numba==0.44.1
-numpy==1.16.4
+numpy==1.22.0
 pandas==0.24.2
 passlib==1.7.1
 pgeocode==0.1.1
